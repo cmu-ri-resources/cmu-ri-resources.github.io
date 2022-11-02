@@ -1,6 +1,3 @@
-# How to Apply to Grad School
-## (a CMU SCS perspective)
-
 Are you thinking about attending grad school? Ever wondered what makes a strong application?
 
 We are excited to announce three information sessions where we’ll talk about the Why’s, What’s and How’s of grad school. During three sessions we will go over the several aspects of applying to grad school: 
