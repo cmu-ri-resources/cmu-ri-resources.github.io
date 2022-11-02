@@ -1,9 +1,3 @@
----
-layout: default
----
-
-# How to Apply to Grad School
-## (a CMU SCS perspective)
 
 
 Are you thinking about attending grad school? Ever wondered what makes a strong application?
