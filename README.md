@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # How to Apply to Grad School
 ## (a CMU SCS perspective)
 
