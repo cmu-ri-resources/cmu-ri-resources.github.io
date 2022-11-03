@@ -11,7 +11,7 @@ We are excited to announce three information sessions where we’ll talk about t
 Each session will facilitated by both professors and graduate students from the CMU Robotics Institute. 
 
 ## Who is this for?
-We expect these sessions to benefit anyone from anywhere in the world who is interested graduate school in robotics or a related area, especially those thinking about graduate school in the US. 
+We expect these sessions to benefit anyone from anywhere in the world who is interested in graduate school in robotics or a related area, especially those thinking about graduate school in the US. 
 
 ## When will the sessions be held and how can I watch?
 
