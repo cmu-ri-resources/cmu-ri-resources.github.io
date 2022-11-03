@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "The Whys, Whats and Hows of Grad School Applications"
-description: "A CMU SCS perspective" # ["Information about webinars on various aspects of graduate school applications"]
+title: ["The Why, What and How of Grad School Applications"]
+description: ["A Carnegie Mellon University, Robotics Institute perspective"] # ["Information about webinars on various aspects of graduate school applications"]
