@@ -21,7 +21,7 @@ The sessions will all be held on Zoom webinars and will be hosted at the followi
 ## Will the sessions be recorded?
 Yes! 
 
-All sessions will be live streamed to youtube so they can be watched after the live session. We will also do our best to answer any residual questions in the YouTube comments. You will be able to watch the sessions on the [CMU Robotics Institute YouTube channel](https://www.youtube.com/channel/UCW2eNKQeNIvl6MgFNKwLgBQ).
+All sessions will be live streamed to youtube so they can be watched after the live session. We will also do our best to answer any residual questions in the YouTube comments. You will be able to watch the sessions on the [Explore Robotics YouTube channel](https://www.youtube.com/@cmu_riss).
 
 ## Have any questions you would like answered?
 
