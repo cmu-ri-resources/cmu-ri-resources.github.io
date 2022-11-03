@@ -32,4 +32,4 @@ If you have any questions that you’d like faculty and grad students to talk ab
 
 <!-- <iframe width="420" height="315" src="http://www.youtube.com/embed/cA9xGrRpkuY" frameborder="0" allowfullscreen></iframe> -->
 
-<a href="https://www.youtube.com/c/AirLab?sub_confirmation=1" class="button is-info"><i class="fab fa-youtube fa-2x"></i> &nbsp; Subscribe to our YouTube Channel</a>
+<!-- <a href="https://www.youtube.com/c/AirLab?sub_confirmation=1" class="button is-info"><i class="fab fa-youtube fa-2x"></i> &nbsp; Subscribe to our YouTube Channel</a> -->
