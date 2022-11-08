@@ -26,8 +26,8 @@ Yes!
 
 All sessions will be live streamed to youtube so they can be watched after the live session. We will also do our best to answer any remainging questions in the YouTube comments. You will be able to watch the sessions on the [Explore Robotics YouTube channel](https://www.youtube.com/@cmu_riss).
 
-## Where can I find the slides used during te webinar? 
-You can find the presentation that we used during the webinar [here](https://github.com/cmu-ri-resources/cmu-ri-resources.github.io/blob/fde963318c812ab5fd7a88d8a0209d3d0fd5bf8f/How_To_Apply_To_Grad_School.pdf)
+## Where can I find the slides used during the webinar? 
+You can find the presentation that we used during the webinar [here](https://github.com/cmu-ri-resources/cmu-ri-resources.github.io/blob/fde963318c812ab5fd7a88d8a0209d3d0fd5bf8f/How_To_Apply_To_Grad_School.pdf).
 
 ## Have any questions you would like answered?
 
