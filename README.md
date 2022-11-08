@@ -26,6 +26,9 @@ Yes!
 
 All sessions will be live streamed to youtube so they can be watched after the live session. We will also do our best to answer any remainging questions in the YouTube comments. You will be able to watch the sessions on the [Explore Robotics YouTube channel](https://www.youtube.com/@cmu_riss).
 
+## Where can I find the slides used during te webinar? 
+You can find the presentation that we used during the webinar [here](How To Apply To Grad School.pdf)
+
 ## Have any questions you would like answered?
 
 If you have any questions that you’d like faculty and grad students to talk about, make sure to submit them [here](https://forms.gle/bNK6kemZ3G79hFxo8).
