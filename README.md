@@ -16,9 +16,9 @@ We expect these sessions to benefit anyone from anywhere in the world who is int
 ## When will the sessions be held and how can I watch?
 
 The sessions will all be held on Zoom webinars and will be hosted at the following times:
-* Tuesday November 8th, 9:00 AM EST (Zoom webinar link [here](https://us02web.zoom.us/j/83918650939?pwd=VUdleVhidHB4WmFWVkU5OHk0MEtjZz09), YouTube streaming link [here](https://youtu.be/cA9xGrRpkuY))
-* Wednesday November 9th, 7:00 PM EST (Zoom webinar link [here](https://us02web.zoom.us/j/81841097996?pwd=NDM0bmRvYUt0SHozRTNEVmlWcXltZz09), YouTube streaming link [here](https://youtu.be/_Eioy87ucQg))
-* Monday November 14th, 1:00 PM EST (Zoom webinar link [here](https://us02web.zoom.us/j/84128236446?pwd=SThPeXpQNWFpaERDejk2NWZINkpqdz09), YouTube streaming link [here](https://youtu.be/ryJYodHVJ64))
+* Tuesday October 17th, 9:00 AM EST (Zoom webinar link TBA, YouTube streaming link TBA)
+* Wednesday October 18th, 7:00 PM EST (Zoom webinar link TBA, YouTube streaming link TBA)
+* Friday October 20th, 1:00 PM EST (Zoom webinar link TBA, YouTube streaming link TBA)
 
 
 ## Will the sessions be recorded?
