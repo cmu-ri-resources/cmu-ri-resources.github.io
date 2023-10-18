@@ -16,9 +16,9 @@ We expect these sessions to benefit anyone from anywhere in the world who is int
 ## When will the sessions be held and how can I watch?
 
 The sessions will all be held on Zoom webinars and will be hosted at the following times:
-* Tuesday October 17th, 9:00 AM EST (Zoom webinar [link](https://us02web.zoom.us/j/89035901354?pwd=WGs0NlRnb3haYWRaVk4xSythZ3lVUT09), YouTube streaming link TBA)
-* Wednesday October 18th, 7:00 PM EST (Zoom webinar [link](https://us02web.zoom.us/j/89134648317?pwd=NG5jNTVEeVNXQitBZzlWMjBiQVk3QT09), YouTube streaming link TBA)
-* Friday October 20th, 1:00 PM EST (Zoom webinar [link](https://us02web.zoom.us/j/83476647986?pwd=NnlqNnl5aHZhYWlDQ1ptb2NqMnlSdz09), YouTube streaming link TBA)
+* Tuesday October 17th, 9:00 AM EST (Zoom webinar [link](https://us02web.zoom.us/j/89035901354?pwd=WGs0NlRnb3haYWRaVk4xSythZ3lVUT09), YouTube streaming [link](https://www.youtube.com/@cmu_riss))
+* Wednesday October 18th, 7:00 PM EST (Zoom webinar [link](https://us02web.zoom.us/j/89134648317?pwd=NG5jNTVEeVNXQitBZzlWMjBiQVk3QT09), YouTube streaming [link](https://www.youtube.com/@cmu_riss))
+* Friday October 20th, 1:00 PM EST (Zoom webinar [link](https://us02web.zoom.us/j/83476647986?pwd=NnlqNnl5aHZhYWlDQ1ptb2NqMnlSdz09), YouTube streaming [link](https://www.youtube.com/@cmu_riss))
 
 
 ## Will the sessions be recorded?
